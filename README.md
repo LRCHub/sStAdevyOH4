@@ -1,0 +1,51 @@
+# Furui Riho – MONSTER
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+現れたなモンスター
+前途多難だリスキー
+暴れ出せばどうした
+あなたにとっちゃ
+これが平和
+ガラガラ崩れて落っこちて
+積み上げて身から出た錆ね
+振りかざす刃は誰のため
+You're saying "I know better"
+この世界を
+独り占めにしないで
+その正義は
+時に誰かを
+傷つけるの
+Oh モンスター
+Ooh na na na
+Ooh na na na
+Ooh na na na
+いつだってモンスター
+Ooh na na na
+Ooh na na na
+いつだって
+現れた正義のヒーローです
+私に任せときゃIt's okay
+主役級登場人物 その2
+「あなたを成敗します」
+なんて街を守れると
+勘違いしては
+正しさを語る口は
+いま火を吹いてる
+いつの間にやら
+同じようにほら
+I'm saying "I know better"
+この世界を
+独り占めにしないで
+この正義も
+あなたと抱きしめ合えるなら
+Oh モンスター
+Ooh na na na
+Ooh na na na
+Ooh na na na
+誰だってモンスター
+Ooh na na na
+Ooh na na na
+誰だって
+```
