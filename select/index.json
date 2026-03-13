@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "MONSTER",
+  "base_artist": "Furui Riho",
+  "createdAt": "2026-03-13T13:59:46.042809Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Playgirl - I Monster Mix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/01_Playgirl_-_I_Monster_Mix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Monster",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/02_My_Monster_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Monster",
+      "artist": "Eminem feat. Rihanna",
+      "has_synced": true,
+      "path": "select/03_The_Monster_Eminem_feat._Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Monster",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/04_Monster_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Another Monster",
+      "artist": "Lætitia Sadier",
+      "has_synced": false,
+      "path": "select/05_Another_Monster_Lætitia_Sadier.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Monster",
+      "artist": "L7",
+      "has_synced": false,
+      "path": "select/06_Monster_L7.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Monster",
+      "artist": "L7",
+      "has_synced": true,
+      "path": "select/07_Monster_L7.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Monster",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/08_Monster_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Monster",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/09_Monster_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Monster",
+      "artist": "lil wayne",
+      "has_synced": false,
+      "path": "select/10_Monster_lil_wayne.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Monster",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/11_Monster_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Monster",
+      "artist": "Magic Man",
+      "has_synced": false,
+      "path": "select/12_Monster_Magic_Man.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Monster Hospital",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/13_Monster_Hospital_Metric.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "New Monster Avenue",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/14_New_Monster_Avenue_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "November Spawned a Monster",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/15_November_Spawned_a_Monster_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "November Spawned a Monster",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/16_November_Spawned_a_Monster_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Monster",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/17_A_Monster_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "A Monster",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/18_A_Monster_Nina_Simone.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MONSTER",
+      "artist": "Furui Riho",
+      "has_synced": false,
+      "path": "select/pl_01_MONSTER_Furui_Riho.txt"
+    }
+  ]
+}
